@@ -1,0 +1,23 @@
+db.products.insert(
+    {
+        _id: 5,
+        name: "newspaper",
+        price: 2.3,
+        stock: 60
+        reviews:[
+      {
+          author: "john",
+          rating: 5,
+          reviwe: "that is really a brilliant work"
+      },
+      {
+          
+          author: "john",
+          rating: 5,
+          reviwe: "that is really a brilliant work"
+      }
+  ]
+    }
+
+  
+)
